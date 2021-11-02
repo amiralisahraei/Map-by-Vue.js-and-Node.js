@@ -1,4 +1,4 @@
-<h1>Make a simple by Vue.js and Node.js</h1>
+<h1>Make a simple Map by Vue.js and Node.js</h1>
 
 In this project we send an ajax request from Vue to Node to take the data.
 
